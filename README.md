@@ -14,6 +14,7 @@ Before you begin, ensure you have:
 - Port **8080** open in the **Security Group** (for Jenkins web access)
 
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/b7d048ec-700b-41aa-b1fb-6b5cef7d8049" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1446edf9-295a-4e84-ac30-60fdbb3ae093" />
 
 ---
 
