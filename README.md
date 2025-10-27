@@ -99,8 +99,6 @@ sudo systemctl status jenkins
 ```
 <img width="1920" height="1080" alt="13" src="https://github.com/user-attachments/assets/b852dc56-9d6c-42a1-bca8-6f84f11191ef" />
 
-<img width="1920" height="1080" alt="14" src="https://github.com/user-attachments/assets/1ec0a1b7-59b4-4faf-b3a2-5cb0b4f005e2" />
-
 ---
 
 ## 🌐 Step 6: Access Jenkins
