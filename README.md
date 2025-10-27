@@ -216,10 +216,3 @@ Created by *Kishan Gollamudi*
 Date: *27th October 2025*
 
 ---
-
-```
-
----
-
-Would you like me to add one more section on **how to enable Jenkins to run on system startup automatically** and **set up firewall rules** (for Ubuntu UFW)? Those are often useful additions for production-like setups.
-```
